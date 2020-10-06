@@ -1,1 +1,10 @@
-theme: jekyll-theme-dinky
+theme: jekyll-theme-dinky<!DOCTYPE html>
+<html lang="zh-cn">
+ <head>
+  <meta charset="utf-8"/>
+  <title>pku王佳旭的网页</title>
+ </head>
+ <body>
+  <h1>这是一个大标题</h1>
+  <p>小段落来了</p>
+ </body>
